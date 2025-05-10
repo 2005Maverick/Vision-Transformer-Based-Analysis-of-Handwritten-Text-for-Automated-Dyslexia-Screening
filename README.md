@@ -158,6 +158,9 @@ If you use this code in your research, please cite:
   year={2023}
 }
 ```
+## DATASET
+
+https://www.kaggle.com/datasets/sumitaich/dyslexia-handwriting-dataset
 
 ## 📄 License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
