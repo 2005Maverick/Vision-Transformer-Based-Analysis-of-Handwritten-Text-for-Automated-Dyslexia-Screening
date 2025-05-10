@@ -163,12 +163,10 @@ If you use this code in your research, please cite:
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🙏 Acknowledgments
-- [Add relevant acknowledgments]
-- [Add funding information if applicable]
-- [Add any other contributors]
+- Authors - Pranav Singh Puri , Ayan Sar , Sumit Aich
 
 ## 📞 Contact
-For questions and feedback, please open an issue or contact [your-email@domain.com]
+For questions and feedback, please open an issue or contact [pranavpuri03@gmail.com]
 
 ---
 <div align="center">
