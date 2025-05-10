@@ -22,7 +22,7 @@ This project implements a state-of-the-art deep learning approach for early dete
 
 ## 🏗️ System Architecture
 
-![Architecture](images/architecture.png)
+![Architecture](dyslexia/images/architecture.png)
 
 The system architecture consists of the following key components:
 
