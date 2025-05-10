@@ -43,7 +43,7 @@ The system architecture consists of the following key components:
 
 ## 🔬 Vision Transformer Architecture
 
-![Vision Transformer](images/vision_transformer.png)
+![Vision Transformer](dyslexia/images/vision_transformer.png)
 
 The Vision Transformer (ViT) architecture implements:
 
@@ -57,7 +57,7 @@ The Vision Transformer (ViT) architecture implements:
 
 ## 📊 Results
 
-![Results](images/Results.png)
+![Results](dyslexia/images/Results.png)
 
 ### Performance Metrics
 - **Accuracy**: 94.5%
@@ -72,7 +72,7 @@ The Vision Transformer (ViT) architecture implements:
 
 ## 🎨 Visualization
 
-![Visualization](images/Visualization.png)
+![Visualization](dyslexia/images/Visualization.png)
 
 The visualization demonstrates:
 - **Attention Maps**: Shows where the model focuses its attention
